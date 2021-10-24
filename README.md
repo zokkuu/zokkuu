@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zokkuu
-- 👀 I’m interested in ...
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning HTML & CSS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://twitter.com/awasteofspace99
 
 <!---
 zokkuu/zokkuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
